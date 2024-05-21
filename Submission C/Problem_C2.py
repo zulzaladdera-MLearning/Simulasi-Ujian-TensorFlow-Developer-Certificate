@@ -1,6 +1,6 @@
 # =============================================================================
 # PROBLEM C2
-#
+# ZULZA LADDERA ARIPIN
 # Create a classifier for the MNIST Handwritten digit dataset.
 # The test will expect it to classify 10 classes.
 #

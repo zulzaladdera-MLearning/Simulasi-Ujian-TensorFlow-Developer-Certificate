@@ -1,6 +1,6 @@
 # =============================================================================
 # PROBLEM B2
-#
+# ZULZA LADDERA ARIPIN
 # Build a classifier for the Fashion MNIST dataset.
 # The test will expect it to classify 10 classes.
 # The input shape should be 28x28 monochrome. Do not resize the data.

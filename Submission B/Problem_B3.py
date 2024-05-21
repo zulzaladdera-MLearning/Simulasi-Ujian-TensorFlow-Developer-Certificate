@@ -1,6 +1,6 @@
 # ========================================================================================
 # PROBLEM B3
-#
+# ZULZA LADDERA ARIPIN
 # Build a CNN based classifier for Rock-Paper-Scissors dataset.
 # Your input layer should accept 150x150 with 3 bytes color as the input shape.
 # This is unlabeled data, use ImageDataGenerator to automatically label it.

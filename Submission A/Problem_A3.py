@@ -1,6 +1,6 @@
 # ======================================================================================================
 # PROBLEM A3
-#
+# ZULZA LADDERA ARIPIN
 # Build a classifier for the Human or Horse Dataset with Transfer Learning.
 # The test will expect it to classify binary classes.
 # Note that all the layers in the pre-trained model are non-trainable.

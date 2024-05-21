@@ -1,6 +1,6 @@
 # ==========================================================================================================
 # PROBLEM A4
-#
+# ZULZA LADDERA ARIPIN
 # Build and train a binary classifier for the IMDB review dataset.
 # The classifier should have a final layer with 1 neuron activated by sigmoid.
 # Do not use lambda layers in your model.

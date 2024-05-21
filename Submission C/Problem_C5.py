@@ -1,6 +1,6 @@
 # ============================================================================================
 # PROBLEM C5
-#
+# ZULZA LADDERA ARIPIN
 # Build and train a neural network to predict time indexed variables of
 # the multivariate house hold electric power consumption time series dataset.
 # Using a window of past 24 observations of the 7 variables, the model

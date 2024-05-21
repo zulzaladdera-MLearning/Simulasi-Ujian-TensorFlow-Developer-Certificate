@@ -1,6 +1,6 @@
 # =======================================================================================
 # PROBLEM A5
-#
+# ZULZA LADDERA ARIPIN
 # Build and train a neural network model using the Sunspots.csv dataset.
 # Use MAE as the metrics of your neural network model.
 # We provided code for normalizing the data. Please do not change the code.

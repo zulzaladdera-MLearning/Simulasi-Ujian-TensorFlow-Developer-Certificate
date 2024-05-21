@@ -1,6 +1,6 @@
 # =====================================================================================
 # PROBLEM A2
-#
+# ZULZA LADDERA ARIPIN
 # Build a Neural Network Model for Horse or Human Dataset.
 # The test will expect it to classify binary classes.
 # Your input layer should accept 150x150 with 3 bytes color as the input shape.
